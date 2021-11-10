@@ -1,4 +1,4 @@
-## Day 0
+## Day 1
 
 The official start of the iOS journey. Successfully setup my development environment and had first walk through of the Xcode IDE.
 
